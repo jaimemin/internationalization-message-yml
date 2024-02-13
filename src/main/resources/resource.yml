@@ -1,0 +1,9 @@
+fruits:
+  apple: 사과
+  orange: 오렌지
+  grape: 포도
+
+colors:
+  - 빨강
+  - 주황
+  - 보라
